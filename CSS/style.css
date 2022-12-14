@@ -1,0 +1,86 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+a{
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+.container{
+	widows: 1140px;
+	margin: 0px auto;
+}
+.Login-form{
+	width: 600px;
+	margin: 0px auto;
+	background: #CC99FF;
+	padding: 40px;
+}
+
+.avater{
+	width: 100%;
+	text-align: center;
+}
+.avater img{
+	width: 180px;
+	height: 180px;
+	border-radius: 100%;
+}
+.sfdf {
+  display: inline-flex;
+}
+.form-group {
+  margin: 10px;
+}
+.form-group{
+	text-align: center;
+	color: purple;
+
+
+}
+.avater h1 {
+  font-size: 26px;
+  font-weight: 700;
+  margin: 20px 0;
+  letter-spacing: 1.5px;
+  color: #330066;
+}
+
+.form-group label{
+margin-right: 5px;
+}
+
+.form-group2 label{
+margin-right: 36px !important;
+color: purple;
+}
+
+input {
+  padding: 3px;
+}
+
+.btn input {
+  padding: 6px 20px;
+  margin-left: 60px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: black;
+  color: #fff;
+  font-weight: 700;
+}
+
+.btn {
+  margin-top: 20px;
+}
